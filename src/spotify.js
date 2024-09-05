@@ -1,6 +1,6 @@
 export const authEndpoint = "https://accounts.spotify.com/authorize"; //need to authenticate using spotify
 //const redirectUri = "https://localhost:3000"; //web api setting
-const redirectUri = "https://spotify-clone.web.app/"
+const redirectUri = "https://spotify-clone.vercel.app/";
 const clientId = "e2f3e942ec314d8ea03adb502b911b6a"; //provided by spotify
 //permisions
 const scopes = [
